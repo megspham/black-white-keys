@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>black & white keys</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1>black & white keys</h1>
+
+    <p>
+      <img
+        src="https://raw.githubusercontent.com/megspham/megspham.github.io/main/media/IMG_1464.jpg"
+        width="100"
+        id="pic"
+      />
+      hi! my name is megan pham, and i am applying to the SITE program. check
+      out my <a href="https://www.linkedin.com/in/megspham/">linkedin</a> and
+      <a href="https://github.com/megspham">github</a> :]
+
+      <br />now that my small intro is over, let's start. <br />instructions:
+      repeat the pattern back to win the game & see if you can guess the song!
+    </p>
+
+    <button id="startBtn" onclick="startGame()">
+      Start
+    </button>
+
+    <button id="stopBtn" class="hidden" onclick="stopGame()">
+      Stop
+    </button>
+
+    <div id="gameButtonArea">
+      <button
+        id="b1"
+        onclick="guess(1)"
+        onmousedown="startTone(1)"
+        onmouseup="stopTone()"
+      >
+        C
+      </button>
+      <button
+        id="b2"
+        onclick="guess(2)"
+        onmousedown="startTone(2)"
+        onmouseup="stopTone()"
+      >
+        C#/Db
+      </button>
+      <button
+        id="b3"
+        onclick="guess(3)"
+        onmousedown="startTone(3)"
+        onmouseup="stopTone()"
+      >
+        D
+      </button>
+      <button
+        id="b4"
+        onclick="guess(4)"
+        onmousedown="startTone(4)"
+        onmouseup="stopTone()"
+      >
+        D#/Eb
+      </button>
+
+      <button
+        id="b5"
+        onclick="guess(5)"
+        onmousedown="startTone(5)"
+        onmouseup="stopTone()"
+      >
+        E
+      </button>
+      <button
+        id="b6"
+        onclick="guess(6)"
+        onmousedown="startTone(6)"
+        onmouseup="stopTone()"
+      >
+        F
+      </button>
+      <button
+        id="b7"
+        onclick="guess(7)"
+        onmousedown="startTone(7)"
+        onmouseup="stopTone()"
+      >
+        F#/Gb
+      </button>
+      <button
+        id="b8"
+        onclick="guess(8)"
+        onmousedown="startTone(8)"
+        onmouseup="stopTone()"
+      >
+        G
+      </button>
+
+      <button
+        id="b9"
+        onclick="guess(9)"
+        onmousedown="startTone(9)"
+        onmouseup="stopTone()"
+      >
+        G#/Ab
+      </button>
+      <button
+        id="b10"
+        onclick="guess(10)"
+        onmousedown="startTone(10)"
+        onmouseup="stopTone()"
+      >
+        A
+      </button>
+      <button
+        id="b11"
+        onclick="guess(11)"
+        onmousedown="startTone(11)"
+        onmouseup="stopTone()"
+      >
+        Ab/Bb
+      </button>
+      <button
+        id="b12"
+        onclick="guess(12)"
+        onmousedown="startTone(12)"
+        onmouseup="stopTone()"
+      >
+        B
+      </button>
+    </div>
+  </body>
+</html>
