@@ -1,6 +1,6 @@
-# Pre-work - *light & sound w megs*
+# Pre-work - *black & white keys*
 
-**light & sound w/ megs** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**black & white keys** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Megan Pham**
 
