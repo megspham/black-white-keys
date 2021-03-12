@@ -40,9 +40,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![](your-link-here)
-
+![MEGANPHAM_PART1](https://user-images.githubusercontent.com/61036308/111000303-a551b480-8336-11eb-9472-abe2e2cfb7a1.gif)
+![MEGANPHAM_PART2](https://user-images.githubusercontent.com/61036308/111000310-ab479580-8336-11eb-8ce9-190967ca39db.gif)
+![MEGANPHAM_PART3](https://user-images.githubusercontent.com/61036308/111000317-ada9ef80-8336-11eb-97bb-3bf531e30954.gif)
+![MEGANPHAM_PART4](https://user-images.githubusercontent.com/61036308/111000319-af73b300-8336-11eb-83fe-4051b9307189.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
