@@ -1,0 +1,161 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 2em;
+  background-color: #AA9D94;
+  color: #F7EDE2;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+  color: #F7EDE2;
+}
+
+button {
+  width: 400px;
+  height: 50px;
+  margin: 2px;
+  background-color: #F7EDE2;
+  border: 2px solid #AA9D94;
+  font-family: "Poppins", sans-serif;
+  padding: 10px;
+  border-radius: 10px;
+  color: #AA9D94;
+}
+
+#pic {
+  position: auto;
+  float: left;
+  margin: 0px 15px 0px 15px;
+}
+
+#gameButtonArea > button {
+  font-family: "Poppins", sans-serif;
+  width: 100px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#b1 {
+  color: black;
+  background: white;
+}
+
+#b1:active,
+#b1.lit {
+  background: #F7EDE2;
+}
+
+#b2 {
+  color: white;
+  background: BLACK;
+}
+
+#b2:active,
+#b2.lit {
+  background: #F7EDE2;
+}
+
+#b3 {
+  color: black;
+  background: white;
+}
+
+#b3:active,
+#b3.lit {
+  background: #F7EDE2;
+}
+#b4 {
+  color: white;
+  background: BLACK;
+}
+
+#b4:active,
+#b4.lit {
+  background: #F7EDE2;
+}
+
+#b5 {
+  color: black;
+  background: white;
+}
+
+#b5:active,
+#b5.lit {
+  background: #F7EDE2;
+}
+
+#b6 {
+  color: black;
+  background: white;
+}
+
+#b6:active,
+#b6.lit {
+  background: #F7EDE2;
+}
+
+#b7 {
+  color: white;
+  background: BLACK;
+}
+
+#b7:active,
+#b7.lit {
+  background: #F7EDE2;
+}
+
+#b8 {
+  color: black;
+  background: white;
+}
+
+#b8:active,
+#b8.lit {
+  background: #F7EDE2;
+}
+#b9 {
+  color: white;
+  background: BLACK;
+}
+
+#b9:active,
+#b9.lit {
+  background: #F7EDE2;
+}
+
+#b10 {
+  color: black;
+  background: white;
+}
+
+#b10:active,
+#b10.lit {
+  background: #F7EDE2;
+}
+
+#b11 {
+  color: white;
+  background: BLACK;
+}
+
+#b11:active,
+#b11.lit {
+  background: #F7EDE2;
+}
+
+#b12 {
+  color: black;
+  background: white;
+}
+
+#b12:active,
+#b12.lit {
+  background: #F7EDE2;
+}
